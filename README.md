@@ -3,9 +3,9 @@
 ## Sobre mim 🚀
 Olá a todos,
 
-Estou animada para compartilhar um novo capítulo da minha jornada profissional. Após anos dedicados à engenharia civil, decidi embarcar em uma empolgante jornada de aprendizado para me tornar uma desenvolvedora front-end.
+Estou animada para compartilhar um novo capítulo da minha jornada profissional. Recentemente decidi embarcar em uma empolgante jornada de aprendizado para me tornar uma desenvolvedora front-end.
 
-Ao longo dos anos, minha paixão por resolver problemas e criar soluções visualmente atraentes me guiou através dos desafios da engenharia civil e gestão de projetos. No entanto, minha curiosidade e fascínio pela tecnologia me levaram a buscar novas oportunidades e horizontes.
+Minha paixão por resolver problemas e criar soluções visualmente atraentes me guiou através dos desafios da engenharia civil e gestão de projetos. No entanto, minha curiosidade e fascínio pela tecnologia me levaram a buscar novas oportunidades e horizontes.
 
 Atualmente, estou imersa em um intenso processo de aprendizado, explorando linguagens de marcação, estilos e frameworks para web. Estou fascinada com a interseção entre design e tecnologia, e estou comprometida em dominar as habilidades necessárias para criar experiências web envolventes e acessíveis.
 
