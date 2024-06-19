@@ -12,11 +12,14 @@ Atualmente, estou imersa em um intenso processo de aprendizado, explorando lingu
 Minha jornada de aprendizado tem sido repleta de desafios e descobertas, mas estou motivada e entusiasmada para enfrentar cada obstáculo que surgir. Estou ansiosa para aplicar minha criatividade e habilidades analíticas no mundo do desenvolvimento front-end e contribuir para projetos inovadores. 💻✨ 
 
 ## Habilidades 👩‍💻
-![Python](https://img.shields.io/badge/Python-40E0D0?style=for-the-badge&logo=python&logoColor=FFF)  ![Git](https://img.shields.io/badge/Git-40E0D0?style=for-the-badge&logo=git&logoColor=FFF)  ![GitHub](https://img.shields.io/badge/GitHub-40E0D0?style=for-the-badge&logo=github)  ![JavaScript](https://img.shields.io/badge/JavaScript-40E0D0?style=for-the-badge&logo=JavaScript&logoColor=FFF)  ![HTML](https://img.shields.io/badge/HTML5-40E0D0?style=for-the-badge&logo=html5&logoColor=FFF)  ![CSS](https://img.shields.io/badge/CSS3-40E0D0?style=for-the-badge&logo=css3&logoColor=FFF)
+![HTML](https://img.shields.io/badge/HTML5-4F57CE?style=for-the-badge&logo=html5&logoColor=FFF)  ![CSS](https://img.shields.io/badge/CSS3-9053C7?style=for-the-badge&logo=css3&logoColor=FFF) ![JavaScript](https://img.shields.io/badge/JavaScript-C551C1?style=for-the-badge&logo=JavaScript&logoColor=FFF) ![Python](https://img.shields.io/badge/Python-D063B3?style=for-the-badge&logo=python&logoColor=FFF)  ![Git](https://img.shields.io/badge/Git-DD81A0?style=for-the-badge&logo=git&logoColor=FFF)  ![GitHub](https://img.shields.io/badge/GitHub-F3B182?style=for-the-badge&logo=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anac-silva&hide_progress=true&theme=ambient_gradient)
 
 ## Conecte-se comigo 📱💬
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-40E0D0?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-40E0D0?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:ana_carolina3551@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-40E0D0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020671?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-2A5DF3?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:ana_carolina3551@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-07F2DB?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709)
+
 
 
