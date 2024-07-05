@@ -19,7 +19,7 @@ Minha jornada de aprendizado tem sido repleta de desafios e descobertas, mas est
 ## Conecte-se comigo 📱💬
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020671?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-2A5DF3?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:ana_carolina3551@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-07F2DB?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:ana_carolina3551@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709)
 
 
 
