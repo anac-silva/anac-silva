@@ -14,7 +14,7 @@ Minha jornada de aprendizado tem sido repleta de desafios e descobertas, mas est
 ## Habilidades 👩‍💻
 ![HTML](https://img.shields.io/badge/HTML5-4F57CE?style=for-the-badge&logo=html5&logoColor=FFF)  ![CSS](https://img.shields.io/badge/CSS3-9053C7?style=for-the-badge&logo=css3&logoColor=FFF) ![JavaScript](https://img.shields.io/badge/JavaScript-C551C1?style=for-the-badge&logo=JavaScript&logoColor=FFF) ![Python](https://img.shields.io/badge/Python-D063B3?style=for-the-badge&logo=python&logoColor=FFF)  ![Git](https://img.shields.io/badge/Git-DD81A0?style=for-the-badge&logo=git&logoColor=FFF)  ![GitHub](https://img.shields.io/badge/GitHub-F3B182?style=for-the-badge&logo=github) ![SASS](https://img.shields.io/badge/SASS-FFCC70?style=for-the-badge&logo=sass&logoColor=FFF) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anac-silva&hide_progress=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anac-silva&hide_progress=true&theme=ambient_gradient&v=1)
 
 ## Conecte-se comigo 📱💬
 
