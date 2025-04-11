@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">👋 Olá, eu sou a Ana Carolina!</h1>
 
 <p align="center">
@@ -40,7 +43,7 @@ Gosto de manter um olhar atento à experiência do usuário e à performance das
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:desenvolvedora.ana.silva@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709) 
 
-Baixe meu currículo clicando [aqui](https://github.com/anac-silva/anac-silva/blob/main/Ana_Carolina_Silva_CV..pdf)📄
+Baixe meu currículo clicando [aqui](https://github.com/anac-silva/anac-silva/blob/main/Ana%20Carolina_CV.pdf)📄
 
 ---
 
