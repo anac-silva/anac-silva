@@ -1,28 +1,52 @@
-# Ana Carolina Nunes da Silva
+<h1 align="center">👋 Olá, eu sou a Ana Carolina!</h1>
 
-## Sobre mim 🚀
-Olá a todos,
+<p align="center">
+Desenvolvedora Front-End | Apaixonada por tecnologia.
+</p>
 
-Estou animada para compartilhar um novo capítulo da minha jornada profissional. Recentemente decidi embarcar em uma empolgante jornada de aprendizado para me tornar uma desenvolvedora front-end.
+---
 
-Minha paixão por resolver problemas e criar soluções visualmente atraentes me guiou através dos desafios da engenharia civil e gestão de projetos. No entanto, minha curiosidade e fascínio pela tecnologia me levaram a buscar novas oportunidades e horizontes.
+## ✨ Sobre Mim
 
-Atualmente, estou imersa em um intenso processo de aprendizado, explorando linguagens de marcação, estilos e frameworks para web. Estou fascinada com a interseção entre design e tecnologia, e estou comprometida em dominar as habilidades necessárias para criar experiências web envolventes e acessíveis.
+Sou graduada em Engenharia Civil e pós-graduada em Gestão de Projetos, mas foi na área da tecnologia que encontrei minha verdadeira vocação. Atualmente, estou cursando Engenharia da Computação na UNIVESP e sigo em constante evolução, estudando diariamente tecnologias modernas como React, JavaScript, HTML, CSS e UX/UI Design.
 
-Minha jornada de aprendizado tem sido repleta de desafios e descobertas, mas estou motivada e entusiasmada para enfrentar cada obstáculo que surgir. Estou ansiosa para aplicar minha criatividade e habilidades analíticas no mundo do desenvolvimento front-end e contribuir para projetos inovadores. 💻✨ 
+Minha transição para a área de tecnologia foi impulsionada pela paixão por resolver problemas e transformar ideias em produtos digitais. Desde então, venho me dedicando ao estudo e à prática com tecnologias modernas como **HTML, CSS, JavaScript, React, TypeScript** e muito mais.
+
+Gosto de manter um olhar atento à experiência do usuário e à performance das aplicações. Valorizo a organização e a melhoria contínua.
+
+---
+
+## Atualmente estudando 🧠
+ 
+- Styled Components & SASS  
+- UX/UI Design com foco em usabilidade  
+- TypeScript
+- JavaScript
+- React
+
+---
+
+## Outras formações e experiências
+
+- Experiência com análise e gestão de projetos  
+- Trabalho em equipe 
+- Inglês intermediário (nível B1)  
+- Cursos complementares pela Alura, Curso em vídeo e outras plataformas  
+- Repositórios organizados com anotações, exercícios e projetos práticos
+
+---
+
+## Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:desenvolvedora.ana.silva@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709) 
+
+Baixe meu currículo clicando [aqui](https://github.com/anac-silva/anac-silva/blob/main/Ana_Carolina_Silva_CV..pdf)📄
+
+---
 
 ## Habilidades 👩‍💻
 ![HTML](https://img.shields.io/badge/HTML5-4F57CE?style=for-the-badge&logo=html5&logoColor=FFF)  ![CSS](https://img.shields.io/badge/CSS3-9053C7?style=for-the-badge&logo=css3&logoColor=FFF) ![JavaScript](https://img.shields.io/badge/JavaScript-C551C1?style=for-the-badge&logo=JavaScript&logoColor=FFF) ![Python](https://img.shields.io/badge/Python-D063B3?style=for-the-badge&logo=python&logoColor=FFF)  ![Git](https://img.shields.io/badge/Git-DD81A0?style=for-the-badge&logo=git&logoColor=FFF)  ![GitHub](https://img.shields.io/badge/GitHub-F3B182?style=for-the-badge&logo=github) ![SASS](https://img.shields.io/badge/SASS-FFCC70?style=for-the-badge&logo=sass&logoColor=FFF) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anac-silva&hide_progress=true&theme=ambient_gradient&v=1)
 
-## Conecte-se comigo 📱💬
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/ana-carolina-silva-2aab8a164)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:desenvolvedora.ana.silva@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709)
-
-Baixe meu currículo clicando [aqui](https://github.com/anac-silva/anac-silva/blob/main/Ana_Carolina_Silva_CV..pdf)📄
-
-
-
-
+⭐ Obrigada por visitar meu perfil! Fique à vontade para explorar meus repositórios, acompanhar meus projetos ou trocar uma ideia comigo!
