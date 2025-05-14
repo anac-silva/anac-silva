@@ -1,8 +1,10 @@
-<h1 align="center">👋 Olá, eu sou a Ana Carolina!</h1>
-
-<p align="center">
-Desenvolvedora Front-End | Apaixonada por tecnologia.
-</p>
+<div align="center">
+  <h1>👋 Olá, eu sou a Ana Carolina!</h1>
+  <p><strong>Desenvolvedora Front-End</strong> | Apaixonada por tecnologia.</p>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4e51bfaf-9f0d-48f4-a900-19df18776ce3" width="300" height="300" style="border-radius: 50%;">
+</div>
 
 ---
 
