@@ -31,11 +31,9 @@ Gosto de manter um olhar atento à experiência do usuário e à performance das
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4F57CE?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)
+![Trello](https://img.shields.io/badge/-Trello-C551C1?style=for-the-badge&logo=trello&logoColor=FFF)
+![Figma](https://img.shields.io/badge/-Figma-FFCC70?style=for-the-badge&logo=figma&logoColor=FFF)
 
 ---
 
@@ -70,13 +68,13 @@ Gosto de manter um olhar atento à experiência do usuário e à performance das
   </tr>
 </table>
 
-![profilec-counter](https://github-profile-trophy.vercel.app/?username=anac-silva&column=8&theme=darkhub&no-frame=true&no-bg=true)
+![profilec-counter](https://github-profile-trophy.vercel.app/?username=anac-silva&column=8&theme=gradient&no-frame=true&no-bg=true)
 
 ---
 
 ## Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/carolinamerloti/)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:desenvolvedora.ana.silva@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/carolinamerloti/)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:desenvolvedora.ana.silva@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709) 
 
 Baixe meu currículo clicando [aqui](https://github.com/anac-silva/anac-silva/blob/main/Ana%20Carolina_CV.pdf)📄
 
