@@ -54,6 +54,8 @@ Baixe meu currículo clicando [aqui](https://github.com/anac-silva/anac-silva/bl
 
 ## ⭐ GitHub Stats
 
+[![Acessos](https://hits.sh/github.com/anac-silva.svg)](https://hits.sh/github.com/anac-silva/)
+
 <table>
   <tr>
     <td>
