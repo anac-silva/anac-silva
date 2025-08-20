@@ -18,9 +18,8 @@ Minha transição para a área de tecnologia foi impulsionada pela paixão por r
 </p>
 
 <p align="justify">
-Gosto de manter um olhar atento à experiência do usuário e à performance das aplicações. Valorizo a organização e a melhoria contínua.
+Além disso, atuo como <strong>mentora e moderadora na comunidade CodeQueens</strong>, ensinando e apoiando pessoas em início de carreira, contribuindo para um ambiente inclusivo e colaborativo e auxiliando no onboarding de novos membros. Nesse papel, também monitoro discussões, ofereço suporte técnico em projetos, respondo dúvidas, promovo boas práticas de respeito e diversidade, e colaboro na organização de eventos e workshops.
 </p>
-
 
 ## 🧠 Atualmente estudando 
  
